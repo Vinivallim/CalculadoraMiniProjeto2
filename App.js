@@ -1,6 +1,6 @@
 import React from 'react';
 import { StatusBar, StyleSheet, View } from 'react-native';
-import Calculator from './Calculator';
+import Calculator from './src/Calculator';
 
 export default function App() {
   return (

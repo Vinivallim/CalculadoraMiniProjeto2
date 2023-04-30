@@ -17,11 +17,11 @@ const styles = StyleSheet.create({
     backgroundColor: '#3b3b3b',
     alignItems: 'center',
     justifyContent: 'center',
-    margin: 5,
-    marginTop: 20,
+    margin: 2,
+    marginTop: 10,
   },
   title: {
-    fontSize: 28,
+    fontSize: 24,
     color: 'white',
   },
 });
