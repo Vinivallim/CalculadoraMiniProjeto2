@@ -100,7 +100,7 @@ const Calculator = () => {
         <Button title="7" onPress={() => handleButtonPress('7')} />
         <Button title="8" onPress={() => handleButtonPress('8')} />
         <Button title="9" onPress={() => handleButtonPress('9')} />
-        <Button title="" onPress={() => handleButtonPress('')} />
+        <Button title="*" onPress={() => handleButtonPress('*')} />
       </View>
       <View style={styles.row}>
         <Button title="4" onPress={() => handleButtonPress('4')} />
